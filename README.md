@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm currently working on Accenture as Regional Solution Architect.<br>I'm currently learning more about about The Open Group Architecture Framework.<br>Ask me about investing.
+I'm currently working at Accenture as a Regional Solution Architect.<br>I'm currently learning more about about The Open Group Architecture Framework.<br>Ask me about investing.
 
 
 # 💻 Tech Stack:
